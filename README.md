@@ -1,10 +1,10 @@
 ![Immersive VR Learning Systems](media/banner.jpg)
 
 <p>
-  <img src="https://img.shields.io/badge/Unity_6-C%23-4BE36B?style=for-the-badge&logo=unity&logoColor=white&labelColor=0B0D0C">
-  <img src="https://img.shields.io/badge/XR_Interaction_Toolkit_3-OpenXR-4BE36B?style=for-the-badge&labelColor=0B0D0C">
-  <img src="https://img.shields.io/badge/URP-HLSL_Shaders-4BE36B?style=for-the-badge&labelColor=0B0D0C">
-  <img src="https://img.shields.io/badge/Meta_Quest_3-VR-4BE36B?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B0D0C">
+  <a href="01-physics-based-vr-training-lab/"><img src="https://img.shields.io/badge/Unity_6-C%23-4BE36B?style=for-the-badge&logo=unity&logoColor=white&labelColor=0B0D0C"></a>
+  <a href="01-physics-based-vr-training-lab/#-guidance-system"><img src="https://img.shields.io/badge/XR_Interaction_Toolkit_3-OpenXR-4BE36B?style=for-the-badge&labelColor=0B0D0C"></a>
+  <a href="01-physics-based-vr-training-lab/#-shaders"><img src="https://img.shields.io/badge/URP-HLSL_Shaders-4BE36B?style=for-the-badge&labelColor=0B0D0C"></a>
+  <a href="02-vr-learning-environment/#-performance-on-standalone-quest"><img src="https://img.shields.io/badge/Meta_Quest_3-VR-4BE36B?style=for-the-badge&logo=meta&logoColor=white&labelColor=0B0D0C"></a>
 </p>
 
 **Source code from two VR learning applications I built in Unity: a physics-based hands-on training lab and a guided virtual learning environment.**
