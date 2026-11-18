@@ -8,6 +8,8 @@ Master's thesis *"Design and Development of an Immersive Virtual Laboratory for 
 
 ![Lab overview](../media/lab_overview.png)
 
+▶ **[Watch the demo](https://www.youtube.com/watch?v=u83hupavMMU)** · 🧠 **[Why each interaction works this way](../docs/DESIGN_AND_RESEARCH.md#interaction-design-rationale)**
+
 ---
 
 ## ▸ TRAINING MODULES

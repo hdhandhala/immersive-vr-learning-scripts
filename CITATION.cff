@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Immersive VR Learning Systems: physics-based training interactions and a guided VR learning environment"
+authors:
+  - family-names: Dhandhala
+    given-names: Himanshu
+type: software
+repository-code: "https://github.com/hdhandhala/immersive-vr-learning-scripts"
+keywords:
+  - virtual reality
+  - human-computer interaction
+  - embodied interaction
+  - haptic feedback
+  - VR training
+  - Unity
+date-released: 2026-11-18

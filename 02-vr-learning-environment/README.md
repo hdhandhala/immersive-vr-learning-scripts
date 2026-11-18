@@ -6,6 +6,10 @@ Project thesis *"Integrating Immersive Technologies into Autodidactic Learning f
 
 `Unity 2022.3 (later upgraded to Unity 6)` · `URP` · `XR Interaction Toolkit` · `OpenXR` · `Meta Quest 3, standalone APK via SideQuest`
 
+[![Project thesis video](https://img.youtube.com/vi/tUPHk5JQL4g/hqdefault.jpg)](https://youtu.be/tUPHk5JQL4g)
+
+▶ **[Watch the project video](https://youtu.be/tUPHk5JQL4g)**
+
 ![Environment overview](../media/environment_overview.png)
 
 ---
@@ -44,9 +48,9 @@ A small pilot comparison: **10 participants** (engineering students and vocation
 
 - The VR group **scored higher on average**, especially on spatial and component questions (how parts are arranged and work together)
 - The document group did slightly better on purely text-based facts
-- VR learners reported more engagement; some wanted more control over the pace of narration, which went straight into the design of project 01 (play/pause/rewind on demand)
+- VR learners reported more engagement; some wanted more control over the pace of narration, which went straight into the design of project 01 (play/pause and step controls on demand)
 
-With 5 people per group this is an indication, not a statistical proof.
+With 5 people per group this is an indication, not a statistical proof. A plan for rigorous follow-up studies is in the [Design & Research notes](../docs/DESIGN_AND_RESEARCH.md#evaluation-plan).
 <br clear="right">
 
 ## ▸ SCRIPTS
